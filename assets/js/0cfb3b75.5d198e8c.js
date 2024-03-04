@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[51],{6965:e=>{e.exports=JSON.parse('{"label":"Hexagonale Architektur","permalink":"/tags/hexagonale-architektur","allTagsPath":"/tags","count":5,"unlisted":false}')}}]);
